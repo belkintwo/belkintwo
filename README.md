@@ -10,29 +10,4 @@
 belkintwo/belkintwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-eeetetet
-hulhulh
-etikt
-redvcd
-ijyu
-fgbfbg
-dfbdb
-fdbdfb
-ngffn
-hgfhgfhn
-dfbfb
-fbdb
-fgngf
-0vcvfb
-fgngf
-fmfgmfm
-j,hnn
-fbhjbx
-fghghjdvb cv  sdvf
-vbvfdb
-fbfbf
-gfngfn
-gnfn
-bfgvb
-hnhngn
-gfnfgn
+
