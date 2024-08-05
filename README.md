@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @belkintwo
+gf- 👋 Hi, I’m @belkintwo
 - 👀 I’m interested in kino
 - 🌱 I’m currently learning retwit
 - 💞️ I’m looking to collaborate on wqork
@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 uityi
 nfg
 erhtj
+mnjgm,
