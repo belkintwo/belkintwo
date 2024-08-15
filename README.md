@@ -1,4 +1,4 @@
-gf- 👋 Hi, I’m @belkintwo
+- 👋 Hi, I’m @belkintwo
 - 👀 I’m interested in kino
 - 🌱 I’m currently learning retwit
 - 💞️ I’m looking to collaborate on wqork
@@ -6,14 +6,3 @@ gf- 👋 Hi, I’m @belkintwo
 - 😄 Pronouns: one
 - ⚡ Fun fact: rare lol
 +
-<!---
-belkintwo/belkintwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-uityi
-nfg
-erhtj
-mnjgm,
-shgseh
-fhfjgt
-djgfjg
