@@ -5,4 +5,5 @@
 - 📫 How to reach me twitter
 - 😄 Pronouns: one
 - ⚡ Fun fact: rare lol
+- no
 +
